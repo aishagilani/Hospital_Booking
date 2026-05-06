@@ -1,6 +1,6 @@
 In the project directory, you can run:
 
-npm srart
+`npm srart`
 
 Runs the app in the development mode.
 
